@@ -1,3 +1,4 @@
+# Modified from https://hub.docker.com/r/robertaboukhalil/emsdk/tags?page=1&ordering=last_updated
 FROM ubuntu:latest
 
 # Main dependencies
